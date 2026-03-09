@@ -11,7 +11,7 @@ Objetivo: prever o resultado de partidas do Campeonato Brasileiro Série A
 Dataset público do Campeonato Brasileiro (2003–2024).
 
 Fonte:
-https://github.com/Afonsoleone25/Projeto-Fundamentos-de-Machine-Learning/blob/main/brasileirao_ml_repo_clean/campeonato-brasileiro-full.csv
+https://github.com/Afonsoleone25/Projeto-Fundamentos-de-Machine-Learning/blob/main/brasileirao_ml_repo_clean/brasileirao_matches_clean.csv
 
 Arquivo utilizado:
 campeonato-brasileiro-full.csv
